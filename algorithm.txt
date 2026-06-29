@@ -1,6 +1,0 @@
-STEP 1: START
-STEP 2: Ask the user to enter the first number. Store it as num67
-STEP 3: Ask the user to enter the first number. Store it as num76
-STEP 4: Compute sum = num67 + num76
-STEP 5: Display (143)
-STEP 6. END.
